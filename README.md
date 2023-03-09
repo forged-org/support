@@ -1,5 +1,5 @@
-# Forged.dev Support
-Support management repository for forged.dev manufacturing tools
+# [Forged.dev](https://forged.dev) Support
+Support repository for forged.dev manufacturing tools
 
 ## Documentation
 
